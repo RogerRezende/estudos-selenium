@@ -1,3 +1,5 @@
+import json
+
 from selenium import webdriver
 
 # Criar instância do navegador
@@ -8,6 +10,9 @@ driver.get('http://pythonclub.com.br/')
 
 # Maximizar o browser
 driver.maximize_window()
+
+# Inicializar meu dicionário
+myDict = {'posts': []}
 
 # Selecionar todos os elementos que possuem a class post
 posts = driver.find_elements_by_class_name('post')
@@ -33,4 +38,15 @@ for post in posts:
     # Imprimir o autor do post
     print(u"Autor: {autor}".format(autor=post_Author))
 
+    # Armazenar as informações em um dicionário
+    myDict['posts'].append(({"Título": "{titulo}".format(titulo=post_Title.text),
+                             "Link": "{link}".format(link=post_Link),
+                             "Autor": "{autor}".format(autor=post_Author)
+                             }))
+
+# Salvar os dados do dicionário em um arquivo JSON
+with open('dados.json', 'w') as json_file:
+    json.dump(myDict, json_file, indent=4)
+
+# Fechar o navegador
 driver.quit()

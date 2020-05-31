@@ -1,0 +1,54 @@
+{
+    "posts": [
+        {
+            "T\u00edtulo": "Criando um CI de uma aplica\u00e7\u00e3o Django usando Github Actions",
+            "Link": "http://pythonclub.com.br/django-ci-github-actions.html",
+            "Autor": "Lucas Magnum"
+        },
+        {
+            "T\u00edtulo": "Criando dicts a partir de outros dicts",
+            "Link": "http://pythonclub.com.br/crie_dict-a-partir-de-outros-dicts.html",
+            "Autor": "Michell Stuttgart"
+        },
+        {
+            "T\u00edtulo": "Tutorial Django 2.2",
+            "Link": "http://pythonclub.com.br/tutorial-django-2.html",
+            "Autor": "Regis da Silva"
+        },
+        {
+            "T\u00edtulo": "Algoritmos de Ordena\u00e7\u00e3o",
+            "Link": "http://pythonclub.com.br/algoritmos-ordenacao.html",
+            "Autor": "Lucas Magnum"
+        },
+        {
+            "T\u00edtulo": "Trabalhando com operadores tern\u00e1rios",
+            "Link": "http://pythonclub.com.br/trabalhando-com-operadores-ternarios.html",
+            "Autor": "Vitor Hugo de Oliveira Vargas"
+        },
+        {
+            "T\u00edtulo": "Upload de Arquivos com Socket e Struct",
+            "Link": "http://pythonclub.com.br/upload-de-arquivos-com-socket-e-struct.html",
+            "Autor": "Silvio Ap Silva"
+        },
+        {
+            "T\u00edtulo": "Monitorando Ips Duplicados na Rede",
+            "Link": "http://pythonclub.com.br/monitorando-ips-duplicados-na-rede.html",
+            "Autor": "Silvio Ap Silva"
+        },
+        {
+            "T\u00edtulo": "Django Rest Framework - #3 Class Based Views",
+            "Link": "http://pythonclub.com.br/django-rest-framework-class-based-views.html",
+            "Autor": "Regis da Silva"
+        },
+        {
+            "T\u00edtulo": "Django Rest Framework - #2 Requests and Responses",
+            "Link": "http://pythonclub.com.br/django-rest-framework-requests-responses.html",
+            "Autor": "Regis da Silva"
+        },
+        {
+            "T\u00edtulo": "Programa\u00e7\u00e3o funcional com Python #2 - Iteraveis e iteradores",
+            "Link": "http://pythonclub.com.br/progrmacao-funcional-com-python-2.html",
+            "Autor": "Eduardo Mendes"
+        }
+    ]
+}
