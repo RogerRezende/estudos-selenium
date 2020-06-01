@@ -1,0 +1,54 @@
+{
+	"Jogadores": [
+		{
+			"nome": "Scott",
+			"sobrenome": "Free",
+			"apelido": "Sr.Milagre",
+			"email": "scottfree@srmilagre.com",
+			"telefone": "014145983261",
+			"categoria": "Classe S",
+			"senha": "12345",
+			"confirmarSenha": "12345"
+		},
+		{
+			"nome": "Grande",
+			"sobrenome": "Barda",
+			"apelido": "GrandeBarda",
+			"email": "grandebarda@grandebarda.com",
+			"telefone": "031485943526",
+			"categoria": "Classe Feminina",
+			"senha": "12345",
+			"confirmarSenha": "12345"
+		},
+		{
+			"nome": "Steve",
+			"sobrenome": "Rogers",
+			"apelido": "CapitaoAmerica",
+			"email": "steverogers@capitaoamerica.com",
+			"telefone": "032589641785",
+			"categoria": "Classe Veterana",
+			"senha": "12345",
+			"confirmarSenha": "12345"
+		},
+		{
+			"nome": "TChalla",
+			"sobrenome": "Wakanda",
+			"apelido": "PanteraNegra",
+			"email": "tchallawakanda@panteranegra.com",
+			"telefone": "033410569856",
+			"categoria": "Classe A",
+			"senha": "12345",
+			"confirmarSenha": "12345"
+		},
+		{
+			"nome": "Barry",
+			"sobrenome": "Allen",
+			"apelido": "Flash",
+			"email": "barryallen@flash.com",
+			"telefone": "035365201478",
+			"categoria": "Classe B",
+			"senha": "12345",
+			"confirmarSenha": "12345"
+		}
+	]
+}

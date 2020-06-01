@@ -1,10 +1,23 @@
+import json
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
+# Criar contador para fazer múltiplos testes
 contador = 0
 
-while(contador < 5):
+# Ler arquivo json
+arquivo_Json = open('jogadores.json', 'r')
+
+# Armazenar os dados do arquivo json no dicionário dados
+dados_Json = json.load(arquivo_Json)
+
+# Lista com todos os dados de cada jogador
+jogadores = dados_Json['Jogadores']
+
+# Laço de repetição para gerar a quantidade de testes necessárias
+while contador < 5:
     # Criar instância do navegador
     driver = webdriver.Chrome()
 
@@ -39,28 +52,28 @@ while(contador < 5):
     campo_ConfirmarSenha = driver.find_element_by_name('confirmarSenha')
 
     # Digitar um nome aleatório
-    campo_Nome.send_keys('Scott')
+    campo_Nome.send_keys(jogadores[contador]["nome"])
 
     # Digitar um sobrenome aleatório
-    campo_Sobrenome.send_keys('Free')
+    campo_Sobrenome.send_keys(jogadores[contador]["sobrenome"])
 
     # Digitar um apelido aleatório
-    campo_Apelido.send_keys('Sr.Milagre')
+    campo_Apelido.send_keys(jogadores[contador]["apelido"])
 
     # Digitar um email aleatório
-    campo_Email.send_keys('scottfree@srmilagre.com')
+    campo_Email.send_keys(jogadores[contador]["email"])
 
     # Digitar um telefone aleatório
-    campo_Telefone.send_keys('012-34985-3325')
+    campo_Telefone.send_keys(jogadores[contador]["telefone"])
 
-    # Selecionar a opção classe A
-    select_Categoria.select_by_visible_text('Classe A')
+    # Selecionar uma opção aleatória
+    select_Categoria.select_by_visible_text(jogadores[contador]["categoria"])
 
     # Digitar uma senha aleatória
-    campo_Senha.send_keys('srmilagre')
+    campo_Senha.send_keys(jogadores[contador]["senha"])
 
     # Digitar uma confirmação de senha aleatória
-    campo_ConfirmarSenha.send_keys('srmilagre')
+    campo_ConfirmarSenha.send_keys(jogadores[contador]["confirmarSenha"])
 
     contador = contador + 1
 
