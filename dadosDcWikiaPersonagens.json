@@ -1,0 +1,80 @@
+{
+    "personagens": [
+        {
+            "Real Name": "2-6-8-1-7-9-5",
+            "Current Alias": "Two-Six",
+            "Aliases": "Green Lantern",
+            "Affiliation": "Green Lantern Corps",
+            "Alignment": "Good",
+            "Identity": "Public Identity",
+            "Race": "Numericonian",
+            "Marital Status": "Single",
+            "Occupation": "Green Lantern",
+            "Gender": "Female",
+            "Eyes": "Yellow",
+            "Hair": "No Hair",
+            "Skin": "White",
+            "Universe": "Prime Earth",
+            "Sector": "Sector 916",
+            "Creators": "Robert Venditti \u00b7 Billy Tan",
+            "First Appearance": "Green Lantern Vol 5 #21\n(August, 2013)"
+        },
+        {
+            "Real Name": "3g4",
+            "Current Alias": "3g4",
+            "Base Of Operations": "Apokolips",
+            "Alignment": "Good",
+            "Race": "Parademon",
+            "Citizenship": "Apokoliptian",
+            "Gender": "Male",
+            "Universe": "New Earth",
+            "Creators": "Peter David \u00b7 Jim Calafiore",
+            "First Appearance": "Aquaman Vol 5 #37\n(October, 1997)",
+            "Appearance of Death": "Aquaman Vol 5 #37\n(October, 1997)"
+        },
+        {
+            "Real Name": "500-ZQ",
+            "Current Alias": "Suzy Q",
+            "Affiliation": "Hero Hotline",
+            "Alignment": "Good",
+            "Gender": "Female",
+            "Eyes": "Blue",
+            "Hair": "No Hair",
+            "Universe": "New Earth",
+            "Creators": "Bob Rozakis \u00b7 Stephen DeStefano",
+            "First Appearance": "Action Comics #637\n(January, 1989)"
+        },
+        {
+            "Real Name": "A'Hwiirdh-Paan'A",
+            "Current Alias": "Harpis",
+            "Aliases": "Hwiirdh-Paan",
+            "Relatives": "Demonia (sister, deceased)",
+            "Affiliation": "Omega Men",
+            "Base Of Operations": "Vega star system",
+            "Alignment": "Good",
+            "Identity": "Public Identity",
+            "Race": "Aellan",
+            "Marital Status": "Single",
+            "Gender": "Female",
+            "Height": "5' 6\"",
+            "Weight": "115 lbs (52 kg)",
+            "Eyes": "Blue",
+            "Hair": "No Hair",
+            "Skin": "Purple",
+            "Universe": "Earth-One \u00b7 New Earth",
+            "Creators": "Marv Wolfman \u00b7 Joe Staton",
+            "First Appearance": "Green Lantern Vol 2 #141\n(June, 1981)",
+            "Appearance of Death": "Adam Strange Vol 2 #5\n(March, 2005)"
+        },
+        {
+            "Real Name": "Artificial Intelligence Data Flow",
+            "Current Alias": "A-I",
+            "Affiliation": "Stormwatch",
+            "Alignment": "Good",
+            "Marital Status": "Single",
+            "Universe": "Prime Earth",
+            "Creators": "Jim Starlin \u00b7 Yvel Guichet",
+            "First Appearance": "Stormwatch Vol 3 #24\n(December, 2013)"
+        }
+    ]
+}

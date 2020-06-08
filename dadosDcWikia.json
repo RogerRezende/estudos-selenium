@@ -1,0 +1,804 @@
+{
+    "personagens": [
+        {
+            "Personagem": "2-6-8-1-7-9-5 (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/2-6-8-1-7-9-5_(Prime_Earth)"
+        },
+        {
+            "Personagem": "3g4 (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/3g4_(New_Earth)"
+        },
+        {
+            "Personagem": "500-ZQ (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/500-ZQ_(New_Earth)"
+        },
+        {
+            "Personagem": "A'Hwiirdh-Paan'A (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/A%27Hwiirdh-Paan%27A_(New_Earth)"
+        },
+        {
+            "Personagem": "A-1 (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/A-1_(Prime_Earth)"
+        },
+        {
+            "Personagem": "A.J. (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/A.J._(New_Earth)"
+        },
+        {
+            "Personagem": "A.K. Fortesan (iZombie TV Series)",
+            "Link": "https://dc.fandom.com/wiki/A.K._Fortesan_(iZombie_TV_Series)"
+        },
+        {
+            "Personagem": "Aa (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aa_(New_Earth)"
+        },
+        {
+            "Personagem": "Aalok (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aalok_(New_Earth)"
+        },
+        {
+            "Personagem": "Aaron Cash (Arkhamverse)",
+            "Link": "https://dc.fandom.com/wiki/Aaron_Cash_(Arkhamverse)"
+        },
+        {
+            "Personagem": "Aaron Cash (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aaron_Cash_(New_Earth)"
+        },
+        {
+            "Personagem": "Aaron Cash (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aaron_Cash_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Aaron Cole (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aaron_Cole_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Aaron Hayley (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aaron_Hayley_(New_Earth)"
+        },
+        {
+            "Personagem": "Aaron Jase (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aaron_Jase_(New_Earth)"
+        },
+        {
+            "Personagem": "Ab-Death (Wildstorm Universe)",
+            "Link": "https://dc.fandom.com/wiki/Ab-Death_(Wildstorm_Universe)"
+        },
+        {
+            "Personagem": "Abdul Ibn Bey (Quality Universe)",
+            "Link": "https://dc.fandom.com/wiki/Abdul_Ibn_Bey_(Quality_Universe)"
+        },
+        {
+            "Personagem": "Abdul Smith (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abdul_Smith_(New_Earth)"
+        },
+        {
+            "Personagem": "Abe Crane (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abe_Crane_(New_Earth)"
+        },
+        {
+            "Personagem": "Abel (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abel_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Abiesa (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abiesa_(New_Earth)"
+        },
+        {
+            "Personagem": "Abigail (Swamp Thing 1990 TV Series)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_(Swamp_Thing_1990_TV_Series)"
+        },
+        {
+            "Personagem": "Abigail Arcane (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Arcane_(New_Earth)"
+        },
+        {
+            "Personagem": "Abigail Arcane (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Arcane_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Abigail Arcane (Swamp Thing 1991 TV Series)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Arcane_(Swamp_Thing_1991_TV_Series)"
+        },
+        {
+            "Personagem": "Abigail Arcane (Swamp Thing 2019 TV Series)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Arcane_(Swamp_Thing_2019_TV_Series)"
+        },
+        {
+            "Personagem": "Abigail Arcane (Swamp Thing Movies)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Arcane_(Swamp_Thing_Movies)"
+        },
+        {
+            "Personagem": "Abigail Cable (The Nail)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Cable_(The_Nail)"
+        },
+        {
+            "Personagem": "Abigail Fine (Smallville)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Fine_(Smallville)"
+        },
+        {
+            "Personagem": "Abigail Hunkel (Earth-22)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Hunkel_(Earth-22)"
+        },
+        {
+            "Personagem": "Abigail Hunkel (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Hunkel_(New_Earth)"
+        },
+        {
+            "Personagem": "Abigail Hunkel (Smallville)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Hunkel_(Smallville)"
+        },
+        {
+            "Personagem": "Abigail Hunkel (World Without Young Justice)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Hunkel_(World_Without_Young_Justice)"
+        },
+        {
+            "Personagem": "Abigail Kent (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Kent_(Earth-One)"
+        },
+        {
+            "Personagem": "Abigail Ladd (Earth-Four)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Ladd_(Earth-Four)"
+        },
+        {
+            "Personagem": "Abigail Ross (Smallville)",
+            "Link": "https://dc.fandom.com/wiki/Abigail_Ross_(Smallville)"
+        },
+        {
+            "Personagem": "Abin Sur (American Alien)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(American_Alien)"
+        },
+        {
+            "Personagem": "Abin Sur (DCAU)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(DCAU)"
+        },
+        {
+            "Personagem": "Abin Sur (Earth-1098)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Earth-1098)"
+        },
+        {
+            "Personagem": "Abin Sur (Earth-20)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Earth-20)"
+        },
+        {
+            "Personagem": "Abin Sur (Earth-21)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Earth-21)"
+        },
+        {
+            "Personagem": "Abin Sur (Earth-30)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Earth-30)"
+        },
+        {
+            "Personagem": "Abin Sur (Earth-32)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Earth-32)"
+        },
+        {
+            "Personagem": "Abin Sur (Earth-3839)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Earth-3839)"
+        },
+        {
+            "Personagem": "Abin Sur (Emerald Knights)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Emerald_Knights)"
+        },
+        {
+            "Personagem": "Abin Sur (First Flight)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(First_Flight)"
+        },
+        {
+            "Personagem": "Abin Sur (Flashpoint Paradox)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Flashpoint_Paradox)"
+        },
+        {
+            "Personagem": "Abin Sur (Flashpoint Timeline)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Flashpoint_Timeline)"
+        },
+        {
+            "Personagem": "Abin Sur (Green Lantern Movie)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Green_Lantern_Movie)"
+        },
+        {
+            "Personagem": "Abin Sur (Injustice: Earth One)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Injustice:_Earth_One)"
+        },
+        {
+            "Personagem": "Abin Sur (Justice)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Justice)"
+        },
+        {
+            "Personagem": "Abin Sur (Last Family of Krypton)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Last_Family_of_Krypton)"
+        },
+        {
+            "Personagem": "Abin Sur (Last Son of Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Last_Son_of_Earth)"
+        },
+        {
+            "Personagem": "Abin Sur (Lego Batman)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Lego_Batman)"
+        },
+        {
+            "Personagem": "Abin Sur (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(New_Earth)"
+        },
+        {
+            "Personagem": "Abin Sur (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Abin Sur (Super Friends)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Super_Friends)"
+        },
+        {
+            "Personagem": "Abin Sur (Superman: Red Son Movie)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Superman:_Red_Son_Movie)"
+        },
+        {
+            "Personagem": "Abin Sur (The Nail)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(The_Nail)"
+        },
+        {
+            "Personagem": "Abin Sur (Tiny Titans)",
+            "Link": "https://dc.fandom.com/wiki/Abin_Sur_(Tiny_Titans)"
+        },
+        {
+            "Personagem": "Abisha (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abisha_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Abra-Ka-Dabra (Tiny Titans)",
+            "Link": "https://dc.fandom.com/wiki/Abra-Ka-Dabra_(Tiny_Titans)"
+        },
+        {
+            "Personagem": "Abraham Arlington (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Arlington_(New_Earth)"
+        },
+        {
+            "Personagem": "Abraham Davis (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Davis_(New_Earth)"
+        },
+        {
+            "Personagem": "Abraham Dusk (Wildstorm Universe)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Dusk_(Wildstorm_Universe)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (Detective No. 27)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(Detective_No._27)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (Earth-1863)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(Earth-1863)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (Earth-S)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(Earth-S)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(New_Earth)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (Quality Universe)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(Quality_Universe)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (The Blue, the Grey, and the Bat)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(The_Blue,_the_Grey,_and_the_Bat)"
+        },
+        {
+            "Personagem": "Abraham Lincoln (The Brave and the Bold: Earth-5501)",
+            "Link": "https://dc.fandom.com/wiki/Abraham_Lincoln_(The_Brave_and_the_Bold:_Earth-5501)"
+        },
+        {
+            "Personagem": "Absolom (Wildstorm Universe)",
+            "Link": "https://dc.fandom.com/wiki/Absolom_(Wildstorm_Universe)"
+        },
+        {
+            "Personagem": "Abu-Gita (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Abu-Gita_(New_Earth)"
+        },
+        {
+            "Personagem": "Acantha (DC Extended Universe)",
+            "Link": "https://dc.fandom.com/wiki/Acantha_(DC_Extended_Universe)"
+        },
+        {
+            "Personagem": "Acantha (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Acantha_(New_Earth)"
+        },
+        {
+            "Personagem": "Accasbel (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Accasbel_(New_Earth)"
+        },
+        {
+            "Personagem": "Accelerated Man (Earth 19)",
+            "Link": "https://dc.fandom.com/wiki/Accelerated_Man_(Earth_19)"
+        },
+        {
+            "Personagem": "Ace (Earth-22)",
+            "Link": "https://dc.fandom.com/wiki/Ace_(Earth-22)"
+        },
+        {
+            "Personagem": "Ace Arn (DCAU)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Arn_(DCAU)"
+        },
+        {
+            "Personagem": "Ace Arn (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Arn_(New_Earth)"
+        },
+        {
+            "Personagem": "Ace Arn (Scooby-Doo Team-Up)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Arn_(Scooby-Doo_Team-Up)"
+        },
+        {
+            "Personagem": "Ace Arn (The Brave and the Bold)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Arn_(The_Brave_and_the_Bold)"
+        },
+        {
+            "Personagem": "Ace Arn (The Nail)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Arn_(The_Nail)"
+        },
+        {
+            "Personagem": "Ace Egan (Quality Universe)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Egan_(Quality_Universe)"
+        },
+        {
+            "Personagem": "Ace High (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ace_High_(New_Earth)"
+        },
+        {
+            "Personagem": "Ace Masterson (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ace_Masterson_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Arkhamverse)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Arkhamverse)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Batman Unlimited)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Batman_Unlimited)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (DC Super Hero Girls)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(DC_Super_Hero_Girls)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (DCAU)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(DCAU)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Earth-508)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Earth-508)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Earth-One)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Hush Beyond)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Hush_Beyond)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Injustice)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Injustice)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Krypto the Superdog)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Krypto_the_Superdog)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Lego Batman)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Lego_Batman)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Lil Gotham)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Lil_Gotham)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(New_Earth)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Scooby-Doo Team-Up)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Scooby-Doo_Team-Up)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Super Pets)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Super_Pets)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (The Brave and the Bold)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(The_Brave_and_the_Bold)"
+        },
+        {
+            "Personagem": "Ace the Bat-Hound (Tiny Titans)",
+            "Link": "https://dc.fandom.com/wiki/Ace_the_Bat-Hound_(Tiny_Titans)"
+        },
+        {
+            "Personagem": "Acheron (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Acheron_(New_Earth)"
+        },
+        {
+            "Personagem": "Achilles (Earth-S)",
+            "Link": "https://dc.fandom.com/wiki/Achilles_(Earth-S)"
+        },
+        {
+            "Personagem": "Achilles (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Achilles_(New_Earth)"
+        },
+        {
+            "Personagem": "Achilles Warkiller (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Achilles_Warkiller_(New_Earth)"
+        },
+        {
+            "Personagem": "Ada LaBostrie (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ada_LaBostrie_(New_Earth)"
+        },
+        {
+            "Personagem": "Adalgisa (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adalgisa_(New_Earth)"
+        },
+        {
+            "Personagem": "Adam (DC Universe Online)",
+            "Link": "https://dc.fandom.com/wiki/Adam_(DC_Universe_Online)"
+        },
+        {
+            "Personagem": "Adam (Earth-ABC)",
+            "Link": "https://dc.fandom.com/wiki/Adam_(Earth-ABC)"
+        },
+        {
+            "Personagem": "Adam Blake (Earth-22)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Blake_(Earth-22)"
+        },
+        {
+            "Personagem": "Adam Blake (JSA: The Golden Age)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Blake_(JSA:_The_Golden_Age)"
+        },
+        {
+            "Personagem": "Adam Blake (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Blake_(New_Earth)"
+        },
+        {
+            "Personagem": "Adam Blake (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Blake_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Adam Blake (The Brave and the Bold)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Blake_(The_Brave_and_the_Bold)"
+        },
+        {
+            "Personagem": "Adam Blake (The Nail)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Blake_(The_Nail)"
+        },
+        {
+            "Personagem": "Adam Clay (Earth-9)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Clay_(Earth-9)"
+        },
+        {
+            "Personagem": "Adam Cray (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Cray_(New_Earth)"
+        },
+        {
+            "Personagem": "Adam Cray (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Cray_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Adam Donner (Arrowverse)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Donner_(Arrowverse)"
+        },
+        {
+            "Personagem": "Adam Evans (DCAU)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Evans_(DCAU)"
+        },
+        {
+            "Personagem": "Adam Foster (Arrowverse: Earth-38)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Foster_(Arrowverse:_Earth-38)"
+        },
+        {
+            "Personagem": "Adam Grant (Smallville)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Grant_(Smallville)"
+        },
+        {
+            "Personagem": "Adam Hardy (Collider)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Hardy_(Collider)"
+        },
+        {
+            "Personagem": "Adam Kent (Created Equal)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Kent_(Created_Equal)"
+        },
+        {
+            "Personagem": "Adam Macalester (Arrowverse)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Macalester_(Arrowverse)"
+        },
+        {
+            "Personagem": "Adam Peril (Quality Universe)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Peril_(Quality_Universe)"
+        },
+        {
+            "Personagem": "Adam Sharp (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Sharp_(New_Earth)"
+        },
+        {
+            "Personagem": "Adam Strange (DC Super Hero Girls)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(DC_Super_Hero_Girls)"
+        },
+        {
+            "Personagem": "Adam Strange (DCAU)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(DCAU)"
+        },
+        {
+            "Personagem": "Adam Strange (Earth-16)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Earth-16)"
+        },
+        {
+            "Personagem": "Adam Strange (Earth-21)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Earth-21)"
+        },
+        {
+            "Personagem": "Adam Strange (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Earth-One)"
+        },
+        {
+            "Personagem": "Adam Strange (Futures End)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Futures_End)"
+        },
+        {
+            "Personagem": "Adam Strange (JSA: The Golden Age)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(JSA:_The_Golden_Age)"
+        },
+        {
+            "Personagem": "Adam Strange (Krypton TV Series)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Krypton_TV_Series)"
+        },
+        {
+            "Personagem": "Adam Strange (Lego Batman)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Lego_Batman)"
+        },
+        {
+            "Personagem": "Adam Strange (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(New_Earth)"
+        },
+        {
+            "Personagem": "Adam Strange (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Adam Strange (Smallville)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(Smallville)"
+        },
+        {
+            "Personagem": "Adam Strange (The Brave and the Bold)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(The_Brave_and_the_Bold)"
+        },
+        {
+            "Personagem": "Adam Strange (The Nail)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_(The_Nail)"
+        },
+        {
+            "Personagem": "Adam Strange II (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Strange_II_(Earth-One)"
+        },
+        {
+            "Personagem": "Adam Stranger (DC One Million)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Stranger_(DC_One_Million)"
+        },
+        {
+            "Personagem": "Adam Thompson (Earth-9)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Thompson_(Earth-9)"
+        },
+        {
+            "Personagem": "Adam Winterbourne (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam_Winterbourne_(New_Earth)"
+        },
+        {
+            "Personagem": "Adam, Sector 1055 (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adam,_Sector_1055_(New_Earth)"
+        },
+        {
+            "Personagem": "Adara (entity) (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adara_(entity)_(New_Earth)"
+        },
+        {
+            "Personagem": "Addie Vochs (Wildstorm Universe)",
+            "Link": "https://dc.fandom.com/wiki/Addie_Vochs_(Wildstorm_Universe)"
+        },
+        {
+            "Personagem": "Adeline Prescott (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adeline_Prescott_(New_Earth)"
+        },
+        {
+            "Personagem": "Adellca (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adellca_(New_Earth)"
+        },
+        {
+            "Personagem": "Adept (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adept_(New_Earth)"
+        },
+        {
+            "Personagem": "Adolf Hitler Clone (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adolf_Hitler_Clone_(New_Earth)"
+        },
+        {
+            "Personagem": "Adrasteia (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adrasteia_(New_Earth)"
+        },
+        {
+            "Personagem": "Adrian Chase (Arrowverse: Earth-2)",
+            "Link": "https://dc.fandom.com/wiki/Adrian_Chase_(Arrowverse:_Earth-2)"
+        },
+        {
+            "Personagem": "Adrian Paratino (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Adrian_Paratino_(New_Earth)"
+        },
+        {
+            "Personagem": "Adrian Sterling (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Adrian_Sterling_(Earth-One)"
+        },
+        {
+            "Personagem": "Adrianna (Smallville)",
+            "Link": "https://dc.fandom.com/wiki/Adrianna_(Smallville)"
+        },
+        {
+            "Personagem": "Adrianna Tereshkova (The Wild Storm)",
+            "Link": "https://dc.fandom.com/wiki/Adrianna_Tereshkova_(The_Wild_Storm)"
+        },
+        {
+            "Personagem": "Adrianna Tereshkova (Wildstorm Universe)",
+            "Link": "https://dc.fandom.com/wiki/Adrianna_Tereshkova_(Wildstorm_Universe)"
+        },
+        {
+            "Personagem": "Aegle (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aegle_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Aella (DC Extended Universe)",
+            "Link": "https://dc.fandom.com/wiki/Aella_(DC_Extended_Universe)"
+        },
+        {
+            "Personagem": "Aella (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aella_(New_Earth)"
+        },
+        {
+            "Personagem": "Aga'po (Green Lantern Movie)",
+            "Link": "https://dc.fandom.com/wiki/Aga%27po_(Green_Lantern_Movie)"
+        },
+        {
+            "Personagem": "Aga'po (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Aga%27po_(New_Earth)"
+        },
+        {
+            "Personagem": "Agatha (All-Star Superman)",
+            "Link": "https://dc.fandom.com/wiki/Agatha_(All-Star_Superman)"
+        },
+        {
+            "Personagem": "Agatha Wayne (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Agatha_Wayne_(New_Earth)"
+        },
+        {
+            "Personagem": "Agatha Zorbatos (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Agatha_Zorbatos_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Agent 355 (Y: The Last Man)",
+            "Link": "https://dc.fandom.com/wiki/Agent_355_(Y:_The_Last_Man)"
+        },
+        {
+            "Personagem": "Agent Liberty II (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Agent_Liberty_II_(New_Earth)"
+        },
+        {
+            "Personagem": "Agent Morgan (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Agent_Morgan_(New_Earth)"
+        },
+        {
+            "Personagem": "Agent Vasquez (Arrowverse: Earth-38)",
+            "Link": "https://dc.fandom.com/wiki/Agent_Vasquez_(Arrowverse:_Earth-38)"
+        },
+        {
+            "Personagem": "Agrippe (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Agrippe_(New_Earth)"
+        },
+        {
+            "Personagem": "Ah Choo (Quality Universe)",
+            "Link": "https://dc.fandom.com/wiki/Ah_Choo_(Quality_Universe)"
+        },
+        {
+            "Personagem": "Ahl (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ahl_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Ahmed Samsarra (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ahmed_Samsarra_(New_Earth)"
+        },
+        {
+            "Personagem": "Ahn Kwang-Jo (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ahn_Kwang-Jo_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Ahri'ahn (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ahri%27ahn_(New_Earth)"
+        },
+        {
+            "Personagem": "Ahti (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ahti_(New_Earth)"
+        },
+        {
+            "Personagem": "Ahura-Mazda (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Ahura-Mazda_(New_Earth)"
+        },
+        {
+            "Personagem": "Airam Sappal (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Airam_Sappal_(New_Earth)"
+        },
+        {
+            "Personagem": "Aisha al-Fadhil (The Losers)",
+            "Link": "https://dc.fandom.com/wiki/Aisha_al-Fadhil_(The_Losers)"
+        },
+        {
+            "Personagem": "Ajax (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Ajax_(Earth-One)"
+        },
+        {
+            "Personagem": "Ajeet Singh (Wildstorm Universe)",
+            "Link": "https://dc.fandom.com/wiki/Ajeet_Singh_(Wildstorm_Universe)"
+        },
+        {
+            "Personagem": "Ak-Var (Earth-One)",
+            "Link": "https://dc.fandom.com/wiki/Ak-Var_(Earth-One)"
+        },
+        {
+            "Personagem": "Akarl (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Akarl_(New_Earth)"
+        },
+        {
+            "Personagem": "Akila (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Akila_(New_Earth)"
+        },
+        {
+            "Personagem": "Akila (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Akila_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Akio Yamashiro (Arrowverse)",
+            "Link": "https://dc.fandom.com/wiki/Akio_Yamashiro_(Arrowverse)"
+        },
+        {
+            "Personagem": "Al (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Al_(New_Earth)"
+        },
+        {
+            "Personagem": "Al Bizarro (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Al_Bizarro_(New_Earth)"
+        },
+        {
+            "Personagem": "Al Jabr (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Al_Jabr_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Al-X (Prime Earth)",
+            "Link": "https://dc.fandom.com/wiki/Al-X_(Prime_Earth)"
+        },
+        {
+            "Personagem": "Alan Armstrong (DCAU)",
+            "Link": "https://dc.fandom.com/wiki/Alan_Armstrong_(DCAU)"
+        },
+        {
+            "Personagem": "Alan Armstrong (Earth-S)",
+            "Link": "https://dc.fandom.com/wiki/Alan_Armstrong_(Earth-S)"
+        },
+        {
+            "Personagem": "Alan Armstrong (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Alan_Armstrong_(New_Earth)"
+        },
+        {
+            "Personagem": "Alan Barnes (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Alan_Barnes_(New_Earth)"
+        },
+        {
+            "Personagem": "Alan Dell (New Earth)",
+            "Link": "https://dc.fandom.com/wiki/Alan_Dell_(New_Earth)"
+        }
+    ]
+}
